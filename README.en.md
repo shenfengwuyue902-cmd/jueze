@@ -1,4 +1,4 @@
-# Jueze ? Decision Matrix Tool
+# Jueze · Decision Matrix Tool
 
 Turn every important decision into a quantifiable choice.
 
@@ -18,21 +18,21 @@ A lightweight online decision matrix tool that helps you systematically compare 
 
 ## Usage
 
-Open `index.html` in any browser. No installation or server required.
+Open \index.html\ in any browser. No installation or server required.
 
 ## Features
 
-- **Zero dependencies** ? Single HTML file, just open and use
-- **Persistent data** ? Auto-saved to localStorage
-- **Dark/Light theme** ? Matches system preference or toggle manually
-- **Score color feedback** ? Green (high), amber (mid), orange (low)
-- **Progress bars** ? Visual comparison of scores in rankings
-- **Reordering** ? Move criteria and options up/down
-- **Interactive step navigation** ? Click to jump between sections
-- **Statistics overview** ? Highest, lowest, and score gap at a glance
-- **Export/Import** ? JSON format for backup and restore
-- **Copy results** ? Formatted text for sharing
-- **Responsive design** ? Works on mobile, tablet, and desktop
+- **Zero dependencies** — Single HTML file, just open and use
+- **Persistent data** — Auto-saved to localStorage
+- **Dark/Light theme** — Matches system preference or toggle manually
+- **Score color feedback** — Green (high), amber (mid), orange (low)
+- **Progress bars** — Visual comparison of scores in rankings
+- **Reordering** — Move criteria and options up/down
+- **Interactive step navigation** — Click to jump between sections
+- **Statistics overview** — Highest, lowest, and score gap at a glance
+- **Export/Import** — JSON format for backup and restore
+- **Copy results** — Formatted text for sharing
+- **Responsive design** — Works on mobile, tablet, and desktop
 
 ## Use Cases
 
@@ -54,18 +54,17 @@ Open `index.html` in any browser. No installation or server required.
 ## Deployment
 
 ### Option 1: Direct
-Double-click `index.html` to open in browser.
+Double-click \index.html\ to open in browser.
 
 ### Option 2: GitHub Pages
-```bash
-git clone https://github.com/<your-username>/jueze.git
+\\ash
+git clone https://github.com/shenfengwuyue902-cmd/jueze.git
 cd jueze
 git push origin main
-```
-Enable Pages in repo Settings.
+\Enable Pages in repo Settings.
 
 ### Option 3: Vercel / Netlify
-Drag and drop `index.html` onto Vercel or Netlify.
+Drag and drop \index.html\ onto Vercel or Netlify.
 
 ## License
 
